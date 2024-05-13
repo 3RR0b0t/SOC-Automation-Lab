@@ -3,10 +3,10 @@
 ## Objectives
 Setting up a SOC (Security Operations Center) automation lab with TheHive, Wazuh, Shuffle, OSINT (Open Source Intelligence), and email integration for receiving email notifications on alerts can be a robust way to enhance your security monitoring capabilities. Here's a breakdown of the objectives and steps to achieve them:
 
-Objective:
+## Keys
 Automate the process of receiving alerts from Wazuh, enrich them with OSINT data using TheHive, and send email notifications using Shuffle.
 
-Steps:
+
 ## 1. Setup Environment:
 
   Install and configure Wazuh for intrusion detection and monitoring.
